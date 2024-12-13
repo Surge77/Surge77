@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm TEJAS</h1>
 <h3 align="center">"Code, Create, Conquer"</h3>
 
+<div class="tenor-gif-embed" data-postid="20353294" data-share-method="host" data-aspect-ratio="0.715625" data-width="100%"><a href="https://tenor.com/view/peppo-dance-programming-gif-20353294">Peppo Dance Sticker</a>from <a href="https://tenor.com/search/peppo-stickers">Peppo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surge77&label=Profile%20views&color=0e75b6&style=flat" alt="surge77" /> </p>
 
 <h3 align="left">Connect with me:</h3>
