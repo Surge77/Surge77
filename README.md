@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 
 
-```
+<pre>
+
       ___           ___            ___         ___           ___     
      /\  \         /\  \          /\  \       /\  \         /\  \    
      \:\  \       /::\  \         \:\  \     /::\  \       /::\  \   
@@ -31,4 +32,7 @@ Here are some ideas to get you started:
    \/__/         \:\ \/__/                     /:/  /     \:\/:/  /  
                   \:\__\                      /:/  /       \::/  /   
                    \/__/                      \/__/         \/__/    
-```
+  
+      
+</pre>
+   
