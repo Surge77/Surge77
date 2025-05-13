@@ -36,3 +36,4 @@ Here are some ideas to get you started:
       
 </pre>
    
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Surge77&bg_color=000000&color=ca21be&line=aa1da1&point=d13333&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
