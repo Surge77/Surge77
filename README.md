@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm TEJAS</h1>
 <h3 align="center">"Code, Create, Conquer"</h3>
 
-
+`
       ___           ___            ___         ___           ___     
      /\  \         /\  \          /\  \       /\  \         /\  \    
      \:\  \       /::\  \         \:\  \     /::\  \       /::\  \   
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
    \/__/         \:\ \/__/                     /:/  /     \:\/:/  /  
                   \:\__\                      /:/  /       \::/  /   
                    \/__/                      \/__/         \/__/    
+`
