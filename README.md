@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm TEJAS</h1>
-<h3 align="center">"Code, Create, Conquer"</h3>
 
+! symbol tells us that it is an image not an regular link
+
+-->
+
+![](https://raw.githubusercontent.com/Surge77/Surge77/refs/heads/main/Profile.gif)
 
 
 <pre>
