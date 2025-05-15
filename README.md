@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       
 </pre>
 
-
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,git,kubernetes,docker,c,vim,js,html,css,aws,cpp,bootstrap,bash,discord,github,linux,mongodb,nodejs,spring,flutter&perline=8)](https://skillicons.dev)
 
