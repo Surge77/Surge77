@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 -->
 
-![](https://raw.githubusercontent.com/Surge77/Surge77/refs/heads/main/Profile.gif)
-
 
 <pre>
 
