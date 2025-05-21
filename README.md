@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 -->
 
+![Tejas - Software Engineer](https://raw.githubusercontent.com/Surge77/Surge77/refs/heads/main/ProfileGiffy.gif)
+
+
 
 <pre>
 
