@@ -42,16 +42,29 @@ Here are some ideas to get you started:
 
 ### **Languages**
 
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,js&perline=17)](https://skillicons.dev)
+
+### **Scripting / Shell**
+
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell&perline=17)](https://skillicons.dev)
+
 ### **Frameworks & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=spring,express,react,threejs,tailwind,bootstrap,vscode,github,npm,yarn&perline=17)](https://skillicons.dev)
 
 ### **Cloud Platforms & DevOps**
 
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,git,gcp,vercel,netlify,docker,kubernetes,appwrite&perline=17)](https://skillicons.dev)
+
 ### **AI, LLM & RAG Technologies**
+
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda&perline=8)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
 
 ### **Databases & Data Tools**
 
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,git,kubernetes,docker,c,vim,js,html,css,aws,cpp,bootstrap,bash,discord,github,linux,mongodb,nodejs,spring,flutter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres,sqlite&perline=8)](https://skillicons.dev)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Surge77&bg_color=000000&color=ca21be&line=aa1da1&point=d13333&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
