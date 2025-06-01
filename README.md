@@ -101,3 +101,6 @@ Here are some ideas to get you started:
   <img src="https://gist.githubusercontent.com/Surge77/05ac1825b61cd5c6bfd035824a135644/raw/d6ed772037261ab73a3b8dffd3318d6c37c1d91c/reddit.svg" alt="Reddit" width="40" />
 </a>
 
+![GitHub Snake Light](https://raw.githubusercontent.com/Surge77/Surge77/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/Surge77/Surge77/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
