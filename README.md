@@ -80,8 +80,6 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/AlfredDagenais)
-
 
 ### **Now Playing** 🎧
 
