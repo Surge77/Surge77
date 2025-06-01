@@ -23,18 +23,6 @@ Here are some ideas to get you started:
 
 
 <pre>
-
-      ___           ___            ___         ___           ___     
-     /\  \         /\  \          /\  \       /\  \         /\  \    
-     \:\  \       /::\  \         \:\  \     /::\  \       /::\  \   
-      \:\  \     /:/\:\  \    ___ /::\__\   /:/\:\  \     /:/\ \  \  
-      /::\  \   /::\~\:\  \  /\  /:/\/__/  /::\~\:\  \   _\:\~\ \  \ 
-     /:/\:\__\ /:/\:\ \:\__\ \:\/:/  /    /:/\:\ \:\__\ /\ \:\ \ \__\
-    /:/  \/__/ \:\~\:\ \/__/  \::/  /     \/__\:\/:/  / \:\ \:\ \/__/
-   /:/  /       \:\ \:\__\     \/__/           \::/  /   \:\ \:\__\  
-   \/__/         \:\ \/__/                     /:/  /     \:\/:/  /  
-                  \:\__\                      /:/  /       \::/  /   
-                   \/__/                      \/__/         \/__/    
                                                                                           
 
       
@@ -49,6 +37,11 @@ Here are some ideas to get you started:
                                                                                                                     \/_/                   
       
 </pre>
+
+<p align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="160" height="160" alt="Daftpunktocat Thomas">
+</p>
+
 
 ## :hammer_and_wrench: **Languages and Technologies**
 
