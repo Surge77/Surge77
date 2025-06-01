@@ -80,6 +80,9 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/AlfredDagenais)
+
+
 ### **Now Playing** 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/3176daddapjb7kdyojbotqsx4mzu)
@@ -88,3 +91,22 @@ Here are some ideas to get you started:
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Surge77&bg_color=000000&color=ca21be&line=aa1da1&point=d13333&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🕹️ Connect with me
+
+<a href="https://x.com/TEJAS17__" target="_blank">
+  <img src="https://gist.githubusercontent.com/Surge77/ba2f1dd61a467765512819794257a3ff/raw/8c9143f52df9d1ee048f06c8d02381a225774937/twitter.svg" alt="X" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/tejas77" target="_blank">
+  <img src="https://gist.githubusercontent.com/Surge77/f1d1966766941584eb3b4b04c9d589e6/raw/8a42e4d3cf5850b0254eb52b7fc2e966f94e1ff5/Linkedin.svg" alt="LinkedIn" width="40" />
+</a>
+
+<a href="https://t.me/QzQa77" target="_blank">
+  <img src="https://gist.githubusercontent.com/Surge77/10a16ba5de08aa2a313bcc518bbfe401/raw/bd734fdd2795752a332ef15211a3301d8c058139/Telegram.svg" alt="Telegram" width="40" />
+</a>
+
+<a href="https://www.reddit.com/user/Fluid_Catch1243/" target="_blank">
+  <img src="https://gist.githubusercontent.com/Surge77/05ac1825b61cd5c6bfd035824a135644/raw/d6ed772037261ab73a3b8dffd3318d6c37c1d91c/reddit.svg" alt="Reddit" width="40" />
+</a>
+
