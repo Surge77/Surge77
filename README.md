@@ -56,15 +56,37 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+<h3>My GitHub Stats</h3>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Surge77">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surge77&hide=html,css&layout=compact&theme=highcontrast" height="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Surge77">
+        <img src="https://github-readme-stats.vercel.app/api?username=Surge77&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" height="120" />
+      </a><br/>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Surge77&theme=highcontrast" height="120" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Surge77&bg_color=000000&color=ca21be&line=aa1da1&point=d13333&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Surge77/Surge77/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/Surge77/Surge77/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+
 
 ## 🕹️ Connect with me
 
