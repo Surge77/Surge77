@@ -64,10 +64,6 @@ Here are some ideas to get you started:
 ![GitHub Snake dark](https://raw.githubusercontent.com/Surge77/Surge77/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
-### **Now Playing** 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/3176daddapjb7kdyojbotqsx4mzu)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 🕹️ Connect with me
