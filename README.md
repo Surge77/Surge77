@@ -56,24 +56,25 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h3>My GitHub Stats</h3>
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Surge77">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surge77&hide=html,css&layout=compact&theme=highcontrast" height="200" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Surge77">
-        <img src="https://github-readme-stats.vercel.app/api?username=Surge77&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" height="120" />
-      </a><br/>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Surge77&theme=highcontrast" height="120" />
-      </a>
-    </td>
-  </tr>
-</table>
+### My GitHub Stats
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Left Card -->
+  <a href="https://github.com/Surge77" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surge77&hide=html,css&layout=compact&theme=highcontrast" height="160" />
+  </a>
+
+  <!-- Right Card -->
+  <a href="https://github.com/Surge77" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Surge77&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" height="160" />
+  </a>
+</div>
+
+<!-- Full-width Bigger Card -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Surge77&theme=highcontrast" height="200" />
+</a>
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Surge77&bg_color=000000&color=ca21be&line=aa1da1&point=d13333&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
