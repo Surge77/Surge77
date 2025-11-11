@@ -1,0 +1,66 @@
+name: Waka Readme (Clean)
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # 00:00 IST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: waka-readme
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README with WakaTime stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          # Required secrets (set in this repo)
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # Branches (must match your default branch)
+          PULL_BRANCH_NAME: "main"
+          PUSH_BRANCH_NAME: "main"
+
+          # Must match markers in README
+          SECTION_NAME: "waka"
+
+          # Locale / symbols (harmless)
+          LOCALE: "en"
+          SYMBOL_VERSION: "3"
+
+          # ---- TURN THESE OFF ----
+          SHOW_TOTAL_CODE_TIME: "False"      # <- removes "Code Time"
+          SHOW_PROFILE_VIEWS: "False"        # <- removes "Profile Views"
+          SHOW_LOC_CHART: "False"            # <- removes the chart image
+          SHOW_UPDATED_DATE: "False"         # <- removes "Last Updated on ..."
+          SHOW_LINES_OF_CODE: "False"        # <- keep false; heavy & noisy
+
+          # Keep the rest you want
+          SHOW_SHORT_INFO: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_OS: "True"
+          SHOW_TIMEZONE: "True"
+
+          # Commit identity
+          COMMIT_SINGLE: "True"
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          COMMIT_MESSAGE: "chore(readme): update WakaTime stats"
+
+          # Filters (optional)
+          IGNORED_REPOS: ""
+          COMMIT_BY_ME: "True"
+
+          # Debug to verify flags in logs
+          DEBUG_LOGGING: "True"
