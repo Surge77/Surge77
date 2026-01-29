@@ -122,6 +122,12 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 
+## 📈 My GitHub Activity
+
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_zYrqCy8RsGmtrVlqzAUQdFkdNLHhPfqN?view=active&theme=dark)
+
+
+
 ## 🕹️ Connect with me
 
 <a href="https://x.com/TEJAS17__" target="_blank">
@@ -139,5 +145,3 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <a href="https://www.reddit.com/user/Fluid_Catch1243/" target="_blank">
   <img src="https://gist.githubusercontent.com/Surge77/05ac1825b61cd5c6bfd035824a135644/raw/d6ed772037261ab73a3b8dffd3318d6c37c1d91c/reddit.svg" alt="Reddit" width="40" />
 </a>
-
-
