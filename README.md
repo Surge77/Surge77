@@ -124,7 +124,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ## 📈 My GitHub Activity
 
-![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_zYrqCy8RsGmtrVlqzAUQdFkdNLHhPfqN?view=active&theme=dark)
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_zYrqCy8RsGmtrVlqzAUQdFkdNLHhPfqN?view=active&theme=cherry-blossom)
 
 
 
