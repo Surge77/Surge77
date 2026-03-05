@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ## Current projects
 
 - [DevTrends](https://github.com/Surge77/social-media-tracker) - Developer career intelligence platform
+- [Portslayer-cli](https://github.com/Surge77/portslayer) - cross platform CLI tool to kill ports
 
 ## Stats
 
