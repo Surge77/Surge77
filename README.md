@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="160" height="160" alt="Daftpunktocat Thomas">
-</p>
+</p> -->
 
 ## :hammer_and_wrench: **Languages and Technologies**
 
