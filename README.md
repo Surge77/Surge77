@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## :hammer_and_wrench: **Languages and Technologies**
 
 ### **Programming Languages**  
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,ts,go,js&perline=12)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,ts,go,rust,js&perline=12)](https://skillicons.dev)  
 
 ### **Scripting & Shell**  
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell&perline=12)](https://skillicons.dev)  
