@@ -42,10 +42,6 @@ Here are some ideas to get you started:
 ### **Cloud Platforms & DevOps**  
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,docker,kubernetes,nginx,workers,ubuntu,supabase,appwrite&perline=12)](https://skillicons.dev)  
 
-### **AI, ML & Data Science**  
-[![My Skills](https://skillicons.dev/icons?i=python,anaconda&perline=8)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
 
 ### **Databases & Data Tools**  
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres,sqlite&perline=8)](https://skillicons.dev)
