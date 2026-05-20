@@ -22,6 +22,14 @@ Here are some ideas to get you started:
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="160" height="160" alt="Daftpunktocat Thomas">
 </p> -->
 
+## Current projects
+
+- [DevTrends](https://github.com/Surge77/social-media-tracker) - Developer career intelligence platform
+- [Portslayer-cli](https://github.com/Surge77/portslayer) - cross platform CLI tool to kill ports
+- [Vox](https://github.com/Surge77/vox-cc) - Windows-native, fully offline speech-to-text dictation
+
+---
+
 ## :hammer_and_wrench: **Languages and Technologies**
 
 ### **Programming Languages**  
@@ -47,11 +55,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres,sqlite&perline=8)](https://skillicons.dev)
 
 
-## Current projects
-
-- [DevTrends](https://github.com/Surge77/social-media-tracker) - Developer career intelligence platform
-- [Portslayer-cli](https://github.com/Surge77/portslayer) - cross platform CLI tool to kill ports
-- [Vox](https://github.com/Surge77/vox-cc) - Windows-native, fully offline speech-to-text dictation
 
 ## Stats
 
