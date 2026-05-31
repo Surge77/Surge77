@@ -22,6 +22,10 @@ Here are some ideas to get you started:
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="160" height="160" alt="Daftpunktocat Thomas">
 </p> -->
 
+<h1>Hi, I'm Tejas 👋</h1>
+
+📍**India  |  🚀  I build developer tools and systems software — CLIs, desktop apps, and AI-agent infrastructure.** 
+
 ## Current projects
 
 - [DevTrends](https://github.com/Surge77/social-media-tracker) - Developer career intelligence platform
@@ -56,75 +60,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres,sqlite&perline=8)](https://skillicons.dev)
 
 
-
-## Stats
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 221.4 kB Used in GitHub's Storage 
- > 
-> 🏆 685 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 78 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                84 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.78 % 
-🌆 Daytime                213 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.72 % 
-🌃 Evening                768 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   71.11 % 
-🌙 Night                  15 commits          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.39 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   48 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.44 % 
-Tuesday                  70 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.48 % 
-Wednesday                614 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   56.85 % 
-Thursday                 83 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.69 % 
-Friday                   86 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.96 % 
-Saturday                 110 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.19 % 
-Sunday                   69 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               21 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.31 % 
-TypeScript               12 repos            ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.46 % 
-HTML                     10 repos            ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.38 % 
-Jupyter Notebook         2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.08 % 
-Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.54 % 
-```
-
-
-
-
-<!--END_SECTION:waka-->
 
 
 ## 📈 My GitHub Activity
