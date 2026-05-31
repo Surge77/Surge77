@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - [DevTrends](https://github.com/Surge77/social-media-tracker) - Developer career intelligence platform
 - [Portslayer-cli](https://github.com/Surge77/portslayer) - cross platform CLI tool to kill ports
 - [Vox](https://github.com/Surge77/vox-cc) - Windows-native, fully offline speech-to-text dictation
+- 🚧 Building ArchonX — Agent Mission Control for dev teams (in development)
 
 ---
 
