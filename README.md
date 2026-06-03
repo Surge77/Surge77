@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - [Portslayer-cli](https://github.com/Surge77/portslayer) - cross platform CLI tool to kill ports
 - [Vox](https://github.com/Surge77/vox-cc) - Windows-native, fully offline speech-to-text dictation
 - [Recall](https://github.com/Surge77/recall) - AI-powered CLI snippet manager that auto-captures shell commands and finds them by meaning (in development)
+- [CollabBoard](https://github.com/Surge77/collabboard) - Real-time collaborative whiteboard with AI diagram generation, live multiplayer canvas, and sharing/export ([live](https://collaborative-whiteboard-ai.vercel.app))
 - 🚧 Building ArchonX — Agent Mission Control for dev teams (in development)
 
 ---
