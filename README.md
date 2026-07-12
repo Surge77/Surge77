@@ -28,11 +28,15 @@ Here are some ideas to get you started:
 
 ## Current projects
 
-- [DevTrends](https://github.com/Surge77/social-media-tracker) - Developer career intelligence platform
-- [Portslayer-cli](https://github.com/Surge77/portslayer) - cross platform CLI tool to kill ports
-- [Vox](https://github.com/Surge77/vox-cc) - Windows-native, fully offline speech-to-text dictation
-- [Recall](https://github.com/Surge77/recall) - AI-powered CLI snippet manager that auto-captures shell commands and finds them by meaning (in development)
+- [relay](https://github.com/Surge77/relay) - Horizontally-scalable real-time messaging backend (Go + Redis + Postgres) — cross-node WS fan-out, gap-free reconnect, zero loss on node kill
+- [ledger-engine](https://github.com/Surge77/ledger-engine) - Production-grade double-entry payment ledger (Java 21 + Spring Boot) — atomic, idempotent, crash-safe money movement
+- [limitbook-java](https://github.com/Surge77/limitbook-java) - Price-time-priority order-matching engine (~2.4M orders/sec, p99 0.4µs) with Spring Boot gateway + React trading terminal
+- [argus](https://github.com/Surge77/argus) - Read-only multi-chain wallet analytics for ETH/SOL/BTC — paste an address, see your portfolio ([live](https://argus-mu-livid.vercel.app))
 - [CollabBoard](https://github.com/Surge77/collabboard) - Real-time collaborative whiteboard with AI diagram generation, live multiplayer canvas, and sharing/export ([live](https://collaborative-whiteboard-ai.vercel.app))
+- [warden](https://github.com/Surge77/warden) - Offline-first Android warranty & receipt vault — on-device OCR, dual deadline reminders, zero cloud (Expo + React Native)
+- [resourcer](https://github.com/Surge77/resourcer) - Native Windows system resource dashboard — live CPU/RAM/disk/network charts + process manager (Python, PySide6)
+- [Recall](https://github.com/Surge77/recall) - AI-powered CLI snippet manager that auto-captures shell commands and finds them by meaning
+- [DevTrends](https://github.com/Surge77/DevTrends) - Developer intelligence platform scoring 100+ technologies from multi-source signal
 - 🚧 Building ArchonX — Agent Mission Control for dev teams (in development)
 
 ---
