@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ## Current projects
 
+- [regin](https://github.com/Surge77/regin) - Terminal coding agent that plans, edits, runs tests, and iterates — shipped with the benchmark loop that scores it, so every change is attributable to a number (Python)
+- [evalgate](https://github.com/Surge77/evalgate) - Agent eval harness — rubric-driven scoring of agent runs with a live-calibrated LLM judge (Python)
 - [relay](https://github.com/Surge77/relay) - Horizontally-scalable real-time messaging backend (Go + Redis + Postgres) — cross-node WS fan-out, gap-free reconnect, zero loss on node kill
 - [ledger-engine](https://github.com/Surge77/ledger-engine) - Production-grade double-entry payment ledger (Java 21 + Spring Boot) — atomic, idempotent, crash-safe money movement
 - [limitbook-java](https://github.com/Surge77/limitbook-java) - Price-time-priority order-matching engine (~2.4M orders/sec, p99 0.4µs) with Spring Boot gateway + React trading terminal
