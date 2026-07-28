@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ## Current projects
 
+- [launchpad](https://github.com/Surge77/launchpad) - Terminal project launcher — pick a repo, get its whole dev environment running in one keystroke: editor, every dev server, pre-flight port checks, live logs. Zero-config detection across 6 ecosystems (Python + Textual)
 - [regin](https://github.com/Surge77/regin) - Terminal coding agent that plans, edits, runs tests, and iterates — shipped with the benchmark loop that scores it, so every change is attributable to a number (Python)
 - [evalgate](https://github.com/Surge77/evalgate) - Agent eval harness — rubric-driven scoring of agent runs with a live-calibrated LLM judge (Python)
 - [relay](https://github.com/Surge77/relay) - Horizontally-scalable real-time messaging backend (Go + Redis + Postgres) — cross-node WS fan-out, gap-free reconnect, zero loss on node kill
