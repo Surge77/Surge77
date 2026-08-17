@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 ## Current projects
 
+- [uptick](https://github.com/Surge77/uptick) - Distributed uptime monitoring, incident tracking and public status pages — multi-region quorum probing, dependency-aware alert suppression, SLA computed from real incident durations (TypeScript)
+- [snipline](https://github.com/Surge77/snipline) - Windows screenshot tool with a vector annotation editor — correct on multi-monitor mixed-DPI setups (Python)
+- [stockout](https://github.com/Surge77/stockout) - Retail demand forecasting scored by the replenishment decision it drives — rolling-origin backtesting, leakage caught by the test suite, service level derived from the newsvendor critical ratio rather than tuned (Python)
+- [scorebook](https://github.com/Surge77/scorebook) - Every ball of the IPL, 2008 to 2026 — a loader, a cleaner, and five questions asked before the charts (Python)
+- [expense-analyzer](https://github.com/Surge77/expense-analyzer) - Turns a bank statement into spending findings — keyword rules measured honestly against a text classifier on 2,461 real labelled transactions (Python)
 - [launchpad](https://github.com/Surge77/launchpad) - Terminal project launcher — pick a repo, get its whole dev environment running in one keystroke: editor, every dev server, pre-flight port checks, live logs. Zero-config detection across 6 ecosystems (Python + Textual)
 - [regin](https://github.com/Surge77/regin) - Terminal coding agent that plans, edits, runs tests, and iterates — shipped with the benchmark loop that scores it, so every change is attributable to a number (Python)
 - [evalgate](https://github.com/Surge77/evalgate) - Agent eval harness — rubric-driven scoring of agent runs with a live-calibrated LLM judge (Python)
