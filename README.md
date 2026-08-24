@@ -84,11 +84,13 @@ Here are some ideas to get you started:
 
 ## 🕹️ Connect with me
 
+📫 **Email —** [work.tejasx@gmail.com](mailto:work.tejasx@gmail.com)
+
 <a href="https://x.com/TEJAS17__" target="_blank">
   <img src="https://gist.githubusercontent.com/Surge77/ba2f1dd61a467765512819794257a3ff/raw/8c9143f52df9d1ee048f06c8d02381a225774937/twitter.svg" alt="X" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/tejas77" target="_blank">
+<a href="https://www.linkedin.com/in/tjx7777" target="_blank">
   <img src="https://gist.githubusercontent.com/Surge77/f1d1966766941584eb3b4b04c9d589e6/raw/8a42e4d3cf5850b0254eb52b7fc2e966f94e1ff5/Linkedin.svg" alt="LinkedIn" width="40" />
 </a>
 
