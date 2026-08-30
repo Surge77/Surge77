@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - [resourcer](https://github.com/Surge77/resourcer) - Native Windows system resource dashboard — live CPU/RAM/disk/network charts + process manager (Python, PySide6)
 - [Recall](https://github.com/Surge77/recall) - AI-powered CLI snippet manager that auto-captures shell commands and finds them by meaning
 - [DevTrends](https://github.com/Surge77/DevTrends) - Developer intelligence platform scoring 100+ technologies from multi-source signal
+- 🚧 [strata](https://github.com/Surge77/strata) - Embeddable LSM-tree key-value storage engine in C++20 - WAL crash recovery, immutable SSTables, Bloom filters, leveled compaction, fault-injection-proven durability (design + roadmap, build starting)
 - 🚧 Building ArchonX — Agent Mission Control for dev teams (in development)
 
 ---
