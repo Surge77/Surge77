@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell&perline=12)](https://skillicons.dev)  
 
 ### **Frameworks & Libraries**  
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,redux,threejs,tailwind,bootstrap,spring,express,flask,django,prisma,qt,maven&perline=12)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,redux,threejs,tailwind,bootstrap,spring,express,flask,django,prisma,qt,maven&perline=12)](https://skillicons.dev)  
 
 ### **Testing & Developer Tools**  
 [![My Skills](https://skillicons.dev/icons?i=jest,vitest,vite,cmake,postman,vscode,vim,npm,yarn&perline=12)](https://skillicons.dev)  
