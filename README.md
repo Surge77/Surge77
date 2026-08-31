@@ -59,20 +59,20 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell&perline=12)](https://skillicons.dev)  
 
 ### **Frameworks & Libraries**  
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,redux,threejs,tailwind,bootstrap,spring,express,flask,django,prisma,qt,maven&perline=12)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,redux,threejs,tailwind,bootstrap,spring,express,flask,django,prisma,qt,maven,gradle&perline=12)](https://skillicons.dev)  
 
 ### **Testing & Developer Tools**  
 [![My Skills](https://skillicons.dev/icons?i=jest,vitest,vite,cmake,postman,vscode,vim,npm,yarn&perline=12)](https://skillicons.dev)  
 
 ### **Version Control & Collaboration**  
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,discord,linkedin,notion,obsidian,twitter&perline=12)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,discord,linkedin,notion,obsidian,md,twitter&perline=12)](https://skillicons.dev)  
 
 ### **Cloud Platforms & DevOps**  
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,docker,kubernetes,githubactions,nginx,workers,ubuntu,windows,supabase,appwrite&perline=12)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,docker,kubernetes,githubactions,grafana,prometheus,nginx,workers,ubuntu,windows,supabase,appwrite&perline=12)](https://skillicons.dev)  
 
 
 ### **Databases & Data Tools**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres,sqlite,kafka,sklearn&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres,sqlite,kafka,sklearn,pytorch,tensorflow&perline=8)](https://skillicons.dev)
 
 
 
