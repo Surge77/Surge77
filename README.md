@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   - width: 400-1200 (default: 800)
 -->
 
-![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Surge77&theme=react-dark&hide_border=true)
+![Contribution activity](https://ghchart.rshah.org/e05c8a/Surge77)
 
 
 
