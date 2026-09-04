@@ -79,7 +79,16 @@ Here are some ideas to get you started:
 
 ## 📈 My GitHub Activity
 
-![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_zYrqCy8RsGmtrVlqzAUQdFkdNLHhPfqN?view=active&theme=cherry-blossom)
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_zYrqCy8RsGmtrVlqzAUQdFkdNLHhPfqN?view=active&theme=cherry-blossom&width=1200)
+
+<!-- Optional parameters:
+  - view: range | first | active (default: range)
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light)
+  - width: 400-1200 (default: 800)
+-->
+
+![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Surge77&theme=react-dark&hide_border=true)
+
 
 
 
